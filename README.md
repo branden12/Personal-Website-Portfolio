@@ -11,7 +11,7 @@ An ongoing personal website portflio to show my back-end and front-end developer
 
 ## Features
 
-- Home Page
+- Home Page ✅
 - Experience Page
 - Projects Page
 - Contact Page
